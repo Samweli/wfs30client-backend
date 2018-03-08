@@ -1,4 +1,4 @@
-# Client for WFS 3.0 Servers
+# Api for WFS 3.0 Servers Generic Clients
 
 Covers test for the following specifications:
 -----------------------------
